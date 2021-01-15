@@ -31,15 +31,13 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/Mccn1Vc.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenge:  figuring out how to set the default percentage 
 
-## License
-
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Thong Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
